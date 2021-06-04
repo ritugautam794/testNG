@@ -1,0 +1,11 @@
+2021-06-02 23:25:11,044  INFO [main] test:34 - entering application URL
+2021-06-02 23:25:11,048  WARN [main] test:35 - Hey this just a warning message
+2021-06-02 23:25:11,048 FATAL [main] test:36 - hey this is just fatal error message
+2021-06-02 23:25:11,050 DEBUG [main] test:37 - this is debug message
+2021-06-02 23:25:11,084  INFO [main] test:42 - ****************************** starting test case *****************************************
+2021-06-02 23:25:11,084  INFO [main] test:43 - ****************************** freeCrmTitleTest *****************************************
+2021-06-02 23:25:11,117  INFO [main] test:46 - login page title is--->#1 Free CRM customer relationship management software cloud
+2021-06-02 23:25:11,958  INFO [main] test:72 - ****************************** Browser is closed *****************************************
+2021-06-02 23:25:11,961  INFO [main] test:56 - ****************************** starting test case *****************************************
+2021-06-02 23:25:11,962  INFO [main] test:57 - ****************************** freemCRMLogoTest *****************************************
+2021-06-02 23:25:11,978  INFO [main] test:72 - ****************************** Browser is closed *****************************************
